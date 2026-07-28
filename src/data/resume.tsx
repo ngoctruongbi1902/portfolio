@@ -15,7 +15,7 @@ import { Git } from "@/components/ui/svgs/git";
 export const DATA = {
   name: "Truong Ngoc",
   initials: "TN",
-  url: "https://portfolio-cv.vercel.app",
+  url: "https://ngoctruong-portfolio.vercel.app",
   location: "Ha Noi, Vietnam",
   locationLink: "https://maps.google.com/?q=Hanoi,Vietnam",
   openGraph: {
