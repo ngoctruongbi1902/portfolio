@@ -34,6 +34,7 @@ export const metadata: Metadata = {
     siteName: `${DATA.name}`,
     locale: "en_US",
     type: "website",
+    images: DATA.openGraph.images,
   },
   robots: {
     index: true,
