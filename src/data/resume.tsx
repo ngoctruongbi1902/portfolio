@@ -19,7 +19,7 @@ export const DATA = {
   location: "Ha Noi, Vietnam",
   locationLink: "https://maps.google.com/?q=Hanoi,Vietnam",
   description:
-    "WordPress & Frontend Developer specializing in Gutenberg, React, and modern web development.",
+    "WordPress Developer with experience building custom themes, plugins, Gutenberg Blocks, and scalable website solutions.",
   summary:
     "I'm a WordPress Developer with over 4 years of experience building premium themes, plugins, and Gutenberg blocks. I have contributed to products used by tens of thousands of websites worldwide, including Eduma, LearnPress, Thim Elementor Kit, Thim Blocks, and several WordPress block themes. My expertise includes PHP, JavaScript, React, Gutenberg Block API, Tailwind CSS, and Next.js. I'm passionate about creating high-quality, scalable, and user-friendly web experiences while continuously learning modern frontend technologies.",
   avatarUrl: "/me.png",
