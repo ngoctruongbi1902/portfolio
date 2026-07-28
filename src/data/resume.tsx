@@ -18,6 +18,9 @@ export const DATA = {
   url: "https://portfolio-cv.vercel.app",
   location: "Ha Noi, Vietnam",
   locationLink: "https://maps.google.com/?q=Hanoi,Vietnam",
+  openGraph: {
+    images: ["/portfolio-preview.png"],
+  },
   description:
     "WordPress Developer with experience building custom Themes, Plugins, Gutenberg Blocks, and scalable website solutions.",
   summary:
