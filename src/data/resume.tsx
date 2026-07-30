@@ -127,7 +127,7 @@ export const DATA = {
       dates: "June 2022 - Present",
       active: true,
       description:
-        "Contributed to the development and maintenance of Eduma, one of the best-selling Education WordPress themes on ThemeForest with tens of thousands of customers worldwide. Built and optimized LMS features powered by LearnPress, developed new UI components, improved performance, fixed bugs, ensured compatibility with Elementor and Gutenberg, and collaborated with the team to deliver new releases.",
+        "Contributed to Eduma, one of the best-selling Education WordPress themes on ThemeForest. Built LMS features with LearnPress, developed UI components, fixed bugs, and ensured compatibility with Elementor and Gutenberg.",
       technologies: [
         "PHP",
         "WordPress",
@@ -136,9 +136,6 @@ export const DATA = {
         "Elementor",
         "HTML",
         "SCSS",
-        "MySQL",
-        "Gulp",
-        "Git"
       ],
       links: [
         {
@@ -161,7 +158,7 @@ export const DATA = {
       dates: "June 2023 - Present",
       active: true,
       description:
-        "Contributed to the development and maintenance of Coaching WP, a premium WordPress theme for life coaches, business coaches, speakers, mentors, and trainers. Implemented new UI components, built LearnPress course and event features, improved Elementor compatibility, fixed bugs, and delivered theme updates.",
+        "Contributed to Coaching WP, a premium WordPress theme for coaches and trainers. Implemented UI components, built LearnPress course features, improved Elementor compatibility, and delivered theme updates.",
       technologies: [
         "PHP",
         "WordPress",
@@ -170,8 +167,6 @@ export const DATA = {
         "Elementor",
         "HTML",
         "SCSS",
-        "MySQL",
-        "Git",
       ],
       links: [
         {
@@ -189,45 +184,12 @@ export const DATA = {
       video: "",
     },
     {
-      title: "Course Builder - LMS WordPress Theme",
-      href: "https://coursebuilder.thimpress.com",
-      dates: "June 2022 - Present",
-      active: true,
-      description:
-        "Contributed to Course Builder, a high-quality LMS WordPress theme built for corporate training, multisite businesses, and online education platforms. Developed new Gutenberg blocks and Elementor widgets, extended LearnPress integrations, improved performance, and resolved cross-browser compatibility issues.",
-      technologies: [
-        "PHP",
-        "WordPress",
-        "LearnPress",
-        "JavaScript",
-        "Elementor",
-        "HTML",
-        "SCSS",
-        "MySQL",
-        "Git",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://coursebuilder.thimpress.com",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://1.envato.market/13Zkd",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "/course-builder-preview.jpg",
-      video: "",
-    },
-    {
       title: "StarKid - Kindergarten WordPress Theme",
       href: "https://starkid.thimpress.com",
       dates: "June 2024 - Present",
       active: true,
       description:
-        "Contributed to StarKid, a modern responsive WordPress theme designed for kindergartens, nurseries, daycares, and children's education centers. Built dedicated pages for meal menus, bus schedules, programs, and admissions. Implemented child-friendly UI components, improved mobile responsiveness, and delivered new feature releases.",
+        "Contributed to StarKid, a WordPress theme for kindergartens and education centers. Built pages for meal menus, bus schedules, and admissions, implemented UI components, and improved mobile responsiveness.",
       technologies: [
         "PHP",
         "WordPress",
@@ -235,8 +197,6 @@ export const DATA = {
         "Elementor",
         "HTML",
         "SCSS",
-        "MySQL",
-        "Git",
       ],
       links: [
         {
@@ -254,12 +214,38 @@ export const DATA = {
       video: "",
     },
     {
+      title: "EduPress - Free Education WordPress Theme",
+      href: "https://edupress.thimpress.com",
+      dates: "June 2022 - Present",
+      active: true,
+      description:
+        "Built EduPress, a free starter WordPress theme by ThimPress designed for LearnPress users. Developed the full frontend and theme architecture, providing a lightweight and ready-to-use base for education websites.",
+      technologies: [
+        "PHP",
+        "WordPress",
+        "LearnPress",
+        "JavaScript",
+        "HTML",
+        "SCSS",
+        "Git",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://edupress.thimpress.com",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/edupress-preview.jpg",
+      video: "",
+    },
+    {
       title: "Sailing - Hotel WordPress Theme",
       href: "https://sailing.thimpress.com",
       dates: "June 2024 - Present",
       active: true,
       description:
-        "Contributed to Sailing, a premium WordPress theme for hotels, hostels, resorts, and accommodation services with an online reservation system. Developed booking features, customized room management pages, improved WooCommerce integration, fixed UI bugs, and optimized performance across devices.",
+        "Contributed to Sailing, a premium WordPress theme for hotels and resorts with an online reservation system. Developed booking features, customized room management pages, and improved WooCommerce integration.",
       technologies: [
         "PHP",
         "WordPress",
@@ -267,8 +253,6 @@ export const DATA = {
         "JavaScript",
         "HTML",
         "SCSS",
-        "MySQL",
-        "Git",
       ],
       links: [
         {
@@ -286,22 +270,19 @@ export const DATA = {
       video: "",
     },
     {
-      title: "LearnPress - WordPress LMS Plugin",
-      href: "https://thimpress.com/learnpress/",
-      dates: "June 2022 - Present",
+      title: "LearnPress LMS",
+      href: "https://learnpresslms.com",
+      dates: "",
       active: true,
       description:
-        "Contributed to LearnPress, a comprehensive free WordPress LMS plugin by ThimPress with over 100,000+ active installations worldwide. Developed new features for course management, quizzes, and lessons, built premium add-ons (WooCommerce payments, certificates, assignments), improved Gutenberg block integration, fixed bugs, and maintained backward compatibility across major WordPress releases.",
+        "Developed a dedicated WordPress theme for learnpresslms.com, the official showcase site for the LearnPress plugin and its add-ons. Built custom pages to highlight plugin features, pricing, and integrations.",
       technologies: [
-        "PHP",
         "WordPress",
+        "PHP",
         "JavaScript",
-        "React",
-        "Gutenberg",
+        "Blocks",
         "HTML",
         "SCSS",
-        "MySQL",
-        "Git",
       ],
       links: [
         {
@@ -309,13 +290,55 @@ export const DATA = {
           href: "https://learnpresslms.com",
           icon: <Icons.globe className="size-3" />,
         },
+      ],
+      image: "/learnpresslms-preview.jpeg",
+      video: "",
+    },
+    {
+      title: "LearnPress - WordPress LMS Plugin",
+      href: "https://thimpress.com/learnpress/",
+      dates: "June 2022 - Present",
+      active: true,
+      description:
+        "Contributed to LearnPress, a free WordPress LMS plugin with 100,000+ active installations. Developed course management features, quizzes, built premium add-ons, improved Gutenberg integration, and maintained backward compatibility.",
+      technologies: [
+        "PHP",
+        "WordPress",
+        "JavaScript",
+        "React",
+      ],
+      links: [
         {
           type: "Source",
           href: "https://wordpress.org/plugins/learnpress/",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/learnpress-preview.gif",
+      image: "/learnpress-preview.jpg",
+      video: "",
+    },
+    {
+      title: "Thim Elementor Kit",
+      href: "https://wordpress.org/plugins/thim-elementor-kit/",
+      dates: "June 2022 - Present",
+      active: true,
+      description:
+        "Contributed to Thim Elementor Kit, a free WordPress plugin by ThimPress providing custom Elementor widgets. Developed and maintained widgets for course listings, instructor profiles, and LearnPress integrations used across multiple ThimPress themes.",
+      technologies: [
+        "PHP",
+        "Elementor",
+        "JavaScript",
+        "React",
+        "SCSS",
+      ],
+      links: [
+        {
+          type: "Source",
+          href: "https://wordpress.org/plugins/thim-elementor-kit/",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/thim-ekit-preview.jpg",
       video: "",
     },
     {
@@ -324,16 +347,13 @@ export const DATA = {
       dates: "June 2025 - Present",
       active: true,
       description:
-        "Contributed to Thim Blocks, a free WordPress Gutenberg plugin by ThimPress providing a library of customizable blocks for building modern pages without heavy page builders. Developed new custom blocks using React and the Gutenberg Block API, maintained compatibility with WordPress core updates, improved block performance, and ensured seamless integration with LearnPress and ThimPress themes.",
+        "Contributed to Thim Blocks, a free Gutenberg plugin by ThimPress for building modern pages without heavy page builders. Developed custom blocks with React and the Block API, maintained WordPress core compatibility, and integrated with LearnPress.",
       technologies: [
         "PHP",
         "WordPress",
         "JavaScript",
         "React",
         "Gutenberg",
-        "HTML",
-        "SCSS",
-        "Git",
       ],
       links: [
         {
@@ -351,17 +371,13 @@ export const DATA = {
       dates: "2025 - 2025",
       active: true,
       description:
-        "Developed and published Online Learning, a free WordPress block theme by ThimPress on WordPress.org. Built with Full Site Editing (FSE), designed for solo instructors, coaches, and educational institutions to create and sell online courses. Focused on lightweight code, mobile-first design, LearnPress integration, and high performance for better SEO rankings.",
+        "Developed and published Online Learning, a free WordPress block theme on WordPress.org. Built with Full Site Editing (FSE) for instructors and educators, focused on lightweight code, mobile-first design, and LearnPress integration.",
       technologies: [
         "WordPress",
-        "Gutenberg",
         "Full Site Editing",
         "LearnPress",
         "PHP",
         "JavaScript",
-        "HTML",
-        "CSS",
-        "Git",
       ],
       links: [
         {
@@ -379,22 +395,65 @@ export const DATA = {
       video: "",
     },
     {
+      title: "Seoulive",
+      href: "https://seoulive.ae",
+      dates: "2025",
+      active: true,
+      description:
+        "Developed the frontend for Seoulive, a website based in the UAE. Built responsive UI components and delivered a polished user experience across devices.",
+      technologies: [
+        "WordPress",
+        "PHP",
+        "JavaScript",
+        "HTML",
+        "CSS",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://seoulive.ae",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/seoulive-preview.jpeg",
+      video: "",
+    },
+    {
+      title: "KinSim",
+      href: "https://kinsim.com",
+      dates: "2025",
+      active: true,
+      description:
+        "Developed the frontend for KinSim, building responsive UI components and ensuring a consistent user experience across all screen sizes.",
+      technologies: [
+        "WordPress",
+        "PHP",
+        "JavaScript",
+        "HTML",
+        "CSS",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://kinsim.com",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/kinsim-preview.jpeg",
+      video: "",
+    },
+    {
       title: "Coaching Center - Free WordPress Block Theme",
       href: "https://wordpress.org/themes/coaching-center/",
       dates: "2026 - 2026",
       active: true,
       description:
-        "Developed and published Coaching Center, a free WordPress block theme by ThimPress on WordPress.org. Built with Full Site Editing (FSE) for coaches, consultants, and educators. Maintained a lightweight structure for high performance, integrated LearnPress course features, and ensured full compatibility with the WordPress block editor.",
+        "Developed and published Coaching Center, a free WordPress block theme on WordPress.org. Built with Full Site Editing (FSE) for coaches and consultants, with LearnPress integration and full block editor compatibility.",
       technologies: [
         "WordPress",
-        "Gutenberg",
         "Full Site Editing",
         "LearnPress",
         "PHP",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "Git",
       ],
       links: [
         {
