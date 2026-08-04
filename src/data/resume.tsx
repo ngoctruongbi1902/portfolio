@@ -22,9 +22,9 @@ export const DATA = {
     images: ["/portfolio-preview.png"],
   },
   description:
-    "WordPress Developer with experience building custom Themes, Plugins, Gutenberg Blocks, and scalable website solutions.",
+    "WordPress Developer specializing in custom Themes, Plugins, Gutenberg Blocks, Elementor, Flatsome customization, and scalable website solutions.",
   summary:
-    "I'm a WordPress Developer with over 4 years of experience building premium themes, plugins, and Gutenberg blocks. I have contributed to products used by tens of thousands of websites worldwide, including Eduma, LearnPress, Thim Elementor Kit, Thim Blocks, and several WordPress block themes. My expertise includes PHP, JavaScript, React, Gutenberg Block API, Tailwind CSS, and Next.js. I'm passionate about creating high-quality, scalable, and user-friendly web experiences while continuously learning modern frontend technologies.",
+    "I'm a WordPress Developer with over 4 years of experience developing custom themes, plugins, and scalable WordPress solutions. I have contributed to premium products used on tens of thousands of websites worldwide, including Eduma, Coaching, Sailing, LearnPress, Thim Elementor Kit, Thim Blocks, and several WordPress block themes. My technical expertise includes PHP, JavaScript, React, the Gutenberg Block API, Elementor, Tailwind CSS, and Next.js. I enjoy building performant, maintainable, and user-focused solutions while continuously expanding my knowledge of modern WordPress and frontend technologies.",
   avatarUrl: "/me.png",
   skills: [
   { name: "WordPress", icon: Wordpress },
@@ -186,7 +186,7 @@ export const DATA = {
     {
       title: "StarKid - Kindergarten WordPress Theme",
       href: "https://starkid.thimpress.com",
-      dates: "June 2024 - Present",
+      dates: "Dec 2024",
       active: true,
       description:
         "Contributed to StarKid, a WordPress theme for kindergartens and education centers. Built pages for meal menus, bus schedules, and admissions, implemented UI components, and improved mobile responsiveness.",
@@ -216,7 +216,7 @@ export const DATA = {
     {
       title: "EduPress - Free Education WordPress Theme",
       href: "https://edupress.thimpress.com",
-      dates: "June 2022 - Present",
+      dates: "May 2023",
       active: true,
       description:
         "Built EduPress, a free starter WordPress theme by ThimPress designed for LearnPress users. Developed the full frontend and theme architecture, providing a lightweight and ready-to-use base for education websites.",
@@ -242,7 +242,7 @@ export const DATA = {
     {
       title: "Sailing - Hotel WordPress Theme",
       href: "https://sailing.thimpress.com",
-      dates: "June 2024 - Present",
+      dates: "Aug 2024 - Present",
       active: true,
       description:
         "Contributed to Sailing, a premium WordPress theme for hotels and resorts with an online reservation system. Developed booking features, customized room management pages, and improved WooCommerce integration.",
@@ -272,7 +272,7 @@ export const DATA = {
     {
       title: "LearnPress LMS",
       href: "https://learnpresslms.com",
-      dates: "",
+      dates: "Nov 2025",
       active: true,
       description:
         "Developed a dedicated WordPress theme for learnpresslms.com, the official showcase site for the LearnPress plugin and its add-ons. Built custom pages to highlight plugin features, pricing, and integrations.",
@@ -297,7 +297,7 @@ export const DATA = {
     {
       title: "LearnPress - WordPress LMS Plugin",
       href: "https://thimpress.com/learnpress/",
-      dates: "June 2022 - Present",
+      dates: "Sep 2023 - Present",
       active: true,
       description:
         "Contributed to LearnPress, a free WordPress LMS plugin with 100,000+ active installations. Developed course management features, quizzes, built premium add-ons, improved Gutenberg integration, and maintained backward compatibility.",
@@ -320,7 +320,7 @@ export const DATA = {
     {
       title: "Thim Elementor Kit",
       href: "https://wordpress.org/plugins/thim-elementor-kit/",
-      dates: "June 2022 - Present",
+      dates: "Mar 2023 - Present",
       active: true,
       description:
         "Contributed to Thim Elementor Kit, a free WordPress plugin by ThimPress providing custom Elementor widgets. Developed and maintained widgets for course listings, instructor profiles, and LearnPress integrations used across multiple ThimPress themes.",
@@ -344,7 +344,7 @@ export const DATA = {
     {
       title: "Thim Blocks - Gutenberg Blocks Plugin",
       href: "https://wordpress.org/plugins/thim-blocks/",
-      dates: "June 2025 - Present",
+      dates: "Nov 2025 - Present",
       active: true,
       description:
         "Contributed to Thim Blocks, a free Gutenberg plugin by ThimPress for building modern pages without heavy page builders. Developed custom blocks with React and the Block API, maintained WordPress core compatibility, and integrated with LearnPress.",
@@ -358,7 +358,7 @@ export const DATA = {
       links: [
         {
           type: "Source",
-          href: "https://github.com/ngoctruongbi1902/thim-block",
+          href: "https://wordpress.org/plugins/thim-blocks/",
           icon: <Icons.github className="size-3" />,
         },
       ],
@@ -368,7 +368,7 @@ export const DATA = {
     {
       title: "Online Learning - Free WordPress Block Theme",
       href: "https://wordpress.org/themes/online-learning/",
-      dates: "2025 - 2025",
+      dates: "Nov 2025",
       active: true,
       description:
         "Developed and published Online Learning, a free WordPress block theme on WordPress.org. Built with Full Site Editing (FSE) for instructors and educators, focused on lightweight code, mobile-first design, and LearnPress integration.",
@@ -397,7 +397,7 @@ export const DATA = {
     {
       title: "Seoulive",
       href: "https://seoulive.ae",
-      dates: "2025",
+      dates: "Dec 2025",
       active: true,
       description:
         "Developed the frontend for Seoulive, a website based in the UAE. Built responsive UI components and delivered a polished user experience across devices.",
@@ -445,7 +445,7 @@ export const DATA = {
     {
       title: "Coaching Center - Free WordPress Block Theme",
       href: "https://wordpress.org/themes/coaching-center/",
-      dates: "2026 - 2026",
+      dates: "Jan 2026",
       active: true,
       description:
         "Developed and published Coaching Center, a free WordPress block theme on WordPress.org. Built with Full Site Editing (FSE) for coaches and consultants, with LearnPress integration and full block editor compatibility.",
